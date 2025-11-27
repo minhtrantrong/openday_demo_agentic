@@ -1,0 +1,4 @@
+python-dotenv==1.2.1
+agno==2.3.3
+e2b-code-interpreter==2.4.1
+google-genai==1.52.0
